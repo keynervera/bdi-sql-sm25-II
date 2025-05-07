@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+fintech-accelator/data/sql/FK-Values/*
+fintech-accelator/data/sql/SQL-Data/*
+fintech-accelator/data/sql/*
+
+
+
+
+
+
